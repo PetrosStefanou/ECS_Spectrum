@@ -1,0 +1,5 @@
+#ignore all png image files
+*.png
+
+#ignore checkpoints created by jupyter notebook
+.ipynb_checkpoints/

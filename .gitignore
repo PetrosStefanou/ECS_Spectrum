@@ -6,3 +6,6 @@
 
 #ignore vscode debugging folder
 .vscode/
+
+#ignore pycache folder
+__pycache__/

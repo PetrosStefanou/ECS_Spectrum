@@ -3,3 +3,6 @@
 
 #ignore checkpoints created by jupyter notebook
 .ipynb_checkpoints/
+
+#ignore vscode debugging folder
+.vscode/

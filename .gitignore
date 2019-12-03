@@ -9,3 +9,6 @@
 
 #ignore pycache folder
 __pycache__/
+
+#ignore the publication
+paper.pdf

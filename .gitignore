@@ -12,3 +12,6 @@ __pycache__/
 
 #ignore the publication
 paper.pdf
+
+#ignore numerical date folder
+data/
